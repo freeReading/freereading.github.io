@@ -278,5 +278,7 @@
     <loc>https://freereading.github.io/categories/</loc>
   </url><url>
     <loc>https://freereading.github.io/tags/</loc>
+  </url><url>
+    <loc>https://freereading.github.io/book/</loc>
   </url>
 </urlset>
